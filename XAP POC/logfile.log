@@ -1,0 +1,12 @@
+2017-07-09 16:29:03,608 INFO  [Loginxap] *****  Starting the test case *********** 
+2017-07-09 16:29:03,621 INFO  [Loginxap] $$$$$$$  Loginxap   $$$$$$$$$$$$$$$$$$ 
+2017-07-09 16:29:03,621 INFO  [Loginxap] Test Case Start 
+2017-07-09 16:29:05,309 INFO  [Loginxap] Passing username and password 
+2017-07-09 16:29:06,058 ERROR [Loginxap] Failure in class Loginxap 
+2017-07-09 16:29:25,506 INFO  [Loginxap] *****  Starting the test case *********** 
+2017-07-09 16:29:25,541 INFO  [Loginxap] $$$$$$$  Loginxap   $$$$$$$$$$$$$$$$$$ 
+2017-07-09 16:29:25,541 INFO  [Loginxap] Test Case Start 
+2017-07-09 16:30:07,905 INFO  [Loginxap] Passing username and password 
+2017-07-09 16:31:22,561 INFO  [Loginxap] PassLoginxapTestCase 
+2017-07-09 16:31:22,561 INFO  [Loginxap] *****  Ending the test case *********** 
+2017-07-09 16:31:22,561 INFO  [Loginxap] $$$$$$$$$     Loginxap $$$$$$$$$$$$$$$$$$ 
